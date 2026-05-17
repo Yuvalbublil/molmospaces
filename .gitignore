@@ -36,6 +36,7 @@ MUJOCO_LOG.TXT
 debug
 /*.json
 rsync-*
+*.sif
 
 
 checkpoints/
